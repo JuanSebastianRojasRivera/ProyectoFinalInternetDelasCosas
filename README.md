@@ -127,8 +127,8 @@ PymesDataStrategy-Monorepo/
 
 ### 2. Clonar y Configurar
 ```bash
-git clone https://github.com/jcgmU/PymesDataStrategy-Monorepo.git
-cd PymesDataStrategy-Monorepo
+git clone https://github.com/JuanSebastianRojasRivera/ProyectoFinalInternetDelasCosas.git
+cd ProyectoFinalInternetDelasCosas
 ```
 
 Crea un archivo `.env` en `backend/` (usa `.env.example` como guía).
